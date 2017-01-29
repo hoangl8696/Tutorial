@@ -1,2 +1,4 @@
+Do something on feature 2
 develope feature 1
 finish feature 1
+finish feature 2
